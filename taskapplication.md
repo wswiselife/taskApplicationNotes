@@ -63,6 +63,15 @@ npm init vite@latest
 
 [prettier 配置](https://blog.csdn.net/qq_43026206/article/details/129861836)
 
+## router 路由的配置
+
+## 登录页面的初步处理
+
+## 首页的初步处理
+
+## store + api 的配置
+
+
 ## 其他问题
 
 ### git add 时会出现警告
